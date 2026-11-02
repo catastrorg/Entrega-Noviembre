@@ -1,0 +1,1362 @@
+{
+  "type": "FeatureCollection",
+  "name": "acto_8-9-26",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 1627,
+        "parcela": "5",
+        "catastro_15-7_NOMENCLATURA": "07G050200000500000000",
+        "catastro_15-7_CALLE": "SIN NOMBRE N� 19",
+        "catastro_15-7_NRO": "5179",
+        "catastro_15-7_BARRIO": "",
+        "catastro_15-7_ESQ_MED": "Medial",
+        "catastro_15-7_ESTADO_TERRENO": "Baldio",
+        "catastro_15-7_SUPERFICIE_TERRENO": "281,25",
+        "catastro_15-7_DESIG_OFICIAL": "C:VII S:G M:502 P:5",
+        "manzana": "502"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -69.28334237824821,
+                -51.66809142436758,
+                0.0
+              ],
+              [
+                -69.28366753626598,
+                -51.668087636237566,
+                0.0
+              ],
+              [
+                -69.2836709210967,
+                -51.66819996439285,
+                0.0
+              ],
+              [
+                -69.28334576243623,
+                -51.66820375253149,
+                0.0
+              ],
+              [
+                -69.28334237824821,
+                -51.66809142436758,
+                0.0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 1633,
+        "parcela": "11",
+        "catastro_15-7_NOMENCLATURA": "07G050200001100000000",
+        "catastro_15-7_CALLE": "",
+        "catastro_15-7_NRO": "",
+        "catastro_15-7_BARRIO": "",
+        "catastro_15-7_ESQ_MED": "Esquina",
+        "catastro_15-7_ESTADO_TERRENO": "Baldio",
+        "catastro_15-7_SUPERFICIE_TERRENO": "273,25",
+        "catastro_15-7_DESIG_OFICIAL": "C:VII S:G M:502 P:11",
+        "manzana": "502"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -69.28368446059787,
+                -51.66864927699109,
+                0.0
+              ],
+              [
+                -69.2840096219792,
+                -51.668645487915434,
+                0.0
+              ],
+              [
+                -69.28401192433925,
+                -51.66872187067489,
+                0.0
+              ],
+              [
+                -69.28395520113277,
+                -51.668758489373644,
+                0.0
+              ],
+              [
+                -69.28368784550703,
+                -51.66876160477927,
+                0.0
+              ],
+              [
+                -69.28368446059787,
+                -51.66864927699109,
+                0.0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 1641,
+        "parcela": "2",
+        "catastro_15-7_NOMENCLATURA": "07G050600000200000000",
+        "catastro_15-7_CALLE": "",
+        "catastro_15-7_NRO": "",
+        "catastro_15-7_BARRIO": "",
+        "catastro_15-7_ESQ_MED": "Esquina",
+        "catastro_15-7_ESTADO_TERRENO": "Baldio",
+        "catastro_15-7_SUPERFICIE_TERRENO": "304,5",
+        "catastro_15-7_DESIG_OFICIAL": "C:VII S:G M:506 P:2",
+        "manzana": "506"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -69.28727114473895,
+                -51.668935545094655,
+                0.0
+              ],
+              [
+                -69.2873278654393,
+                -51.668898924829705,
+                0.0
+              ],
+              [
+                -69.28763135081944,
+                -51.668895378970866,
+                0.0
+              ],
+              [
+                -69.2876347454108,
+                -51.669007706982484,
+                0.0
+              ],
+              [
+                -69.2872734524502,
+                -51.66901192816516,
+                0.0
+              ],
+              [
+                -69.28727114473895,
+                -51.668935545094655,
+                0.0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 1882,
+        "parcela": "4",
+        "catastro_15-7_NOMENCLATURA": "07G051400000400000000",
+        "catastro_15-7_CALLE": "",
+        "catastro_15-7_NRO": "",
+        "catastro_15-7_BARRIO": "",
+        "catastro_15-7_ESQ_MED": "Esquina",
+        "catastro_15-7_ESTADO_TERRENO": "Baldio",
+        "catastro_15-7_SUPERFICIE_TERRENO": "304,5",
+        "catastro_15-7_DESIG_OFICIAL": "C:VII S:G M:514 P:4",
+        "manzana": "514"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -69.28528653632887,
+                -51.670239703175305,
+                0.0
+              ],
+              [
+                -69.28534326028131,
+                -51.670203083856855,
+                0.0
+              ],
+              [
+                -69.28546610319714,
+                -51.670201650793125,
+                0.0
+              ],
+              [
+                -69.28547288234815,
+                -51.670426306831146,
+                0.0
+              ],
+              [
+                -69.28529223003153,
+                -51.670428414245926,
+                0.0
+              ],
+              [
+                -69.28528653632887,
+                -51.670239703175305,
+                0.0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 1946,
+        "parcela": "17",
+        "catastro_15-7_NOMENCLATURA": "07G051600001700000000",
+        "catastro_15-7_CALLE": "",
+        "catastro_15-7_NRO": "",
+        "catastro_15-7_BARRIO": "",
+        "catastro_15-7_ESQ_MED": "Medial",
+        "catastro_15-7_ESTADO_TERRENO": "Baldio",
+        "catastro_15-7_SUPERFICIE_TERRENO": "312,5",
+        "catastro_15-7_DESIG_OFICIAL": "C:VII S:G M:516 P:17",
+        "manzana": "516"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -69.2877230135463,
+                -51.67192823431207,
+                0.0
+              ],
+              [
+                -69.28808432984093,
+                -51.67192401171101,
+                0.0
+              ],
+              [
+                -69.288087725877,
+                -51.67203633964847,
+                0.0
+              ],
+              [
+                -69.28772640862083,
+                -51.67204056226206,
+                0.0
+              ],
+              [
+                -69.2877230135463,
+                -51.67192823431207,
+                0.0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 2048,
+        "parcela": "1",
+        "catastro_15-7_NOMENCLATURA": "07G052100000100000000",
+        "catastro_15-7_CALLE": "",
+        "catastro_15-7_NRO": "",
+        "catastro_15-7_BARRIO": "",
+        "catastro_15-7_ESQ_MED": "Esquina",
+        "catastro_15-7_ESTADO_TERRENO": "Baldio",
+        "catastro_15-7_SUPERFICIE_TERRENO": "304,5",
+        "catastro_15-7_DESIG_OFICIAL": "C:VII S:G M:521 P:1",
+        "manzana": "521"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -69.28775221230251,
+                -51.6728942546014,
+                0.0
+              ],
+              [
+                -69.28805572432249,
+                -51.672890707607884,
+                0.0
+              ],
+              [
+                -69.28811462292244,
+                -51.67292597683495,
+                0.0
+              ],
+              [
+                -69.28811693233362,
+                -51.673002359818874,
+                0.0
+              ],
+              [
+                -69.28775560753098,
+                -51.6730065825318,
+                0.0
+              ],
+              [
+                -69.28775221230251,
+                -51.6728942546014,
+                0.0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 2053,
+        "parcela": "2",
+        "catastro_15-7_NOMENCLATURA": "07G052100000200000000",
+        "catastro_15-7_CALLE": "",
+        "catastro_15-7_NRO": "",
+        "catastro_15-7_BARRIO": "",
+        "catastro_15-7_ESQ_MED": "Esquina",
+        "catastro_15-7_ESTADO_TERRENO": "Baldio",
+        "catastro_15-7_SUPERFICIE_TERRENO": "304,5",
+        "catastro_15-7_DESIG_OFICIAL": "C:VII S:G M:521 P:2",
+        "manzana": "521"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -69.28775221230251,
+                -51.67289425460143,
+                0.0
+              ],
+              [
+                -69.28775560753097,
+                -51.67300658253181,
+                0.0
+              ],
+              [
+                -69.28739428282017,
+                -51.67301080413151,
+                0.0
+              ],
+              [
+                -69.28739197462397,
+                -51.672934421131636,
+                0.0
+              ],
+              [
+                -69.28744870023199,
+                -51.67289780081079,
+                0.0
+              ],
+              [
+                -69.28775221230251,
+                -51.67289425460143,
+                0.0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 2072,
+        "parcela": "16",
+        "catastro_15-7_NOMENCLATURA": "07G052100001600000000",
+        "catastro_15-7_CALLE": "",
+        "catastro_15-7_NRO": "",
+        "catastro_15-7_BARRIO": "",
+        "catastro_15-7_ESQ_MED": "Medial",
+        "catastro_15-7_ESTADO_TERRENO": "Baldio",
+        "catastro_15-7_SUPERFICIE_TERRENO": "312,5",
+        "catastro_15-7_DESIG_OFICIAL": "C:VII S:G M:521 P:16",
+        "manzana": "521"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -69.28776239804162,
+                -51.673231238385746,
+                0.0
+              ],
+              [
+                -69.28812372476746,
+                -51.673227015647726,
+                0.0
+              ],
+              [
+                -69.28812712101123,
+                -51.673339343558744,
+                0.0
+              ],
+              [
+                -69.2877657933238,
+                -51.67334356630926,
+                0.0
+              ],
+              [
+                -69.28776239804162,
+                -51.673231238385746,
+                0.0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 2113,
+        "parcela": "10",
+        "catastro_15-7_NOMENCLATURA": "07G052100001000000000",
+        "catastro_15-7_CALLE": "",
+        "catastro_15-7_NRO": "",
+        "catastro_15-7_BARRIO": "",
+        "catastro_15-7_ESQ_MED": "Esquina",
+        "catastro_15-7_ESTADO_TERRENO": "Baldio",
+        "catastro_15-7_SUPERFICIE_TERRENO": "304,5",
+        "catastro_15-7_DESIG_OFICIAL": "C:VII S:G M:521 P:10",
+        "manzana": "521"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -69.2874180441443,
+                -51.67379709965689,
+                0.0
+              ],
+              [
+                -69.2877793746315,
+                -51.673792877980645,
+                0.0
+              ],
+              [
+                -69.28778277000316,
+                -51.67390520589278,
+                0.0
+              ],
+              [
+                -69.28747925181948,
+                -51.673908752183365,
+                0.0
+              ],
+              [
+                -69.28742035243395,
+                -51.67387348264483,
+                0.0
+              ],
+              [
+                -69.2874180441443,
+                -51.67379709965689,
+                0.0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 2123,
+        "parcela": "17",
+        "catastro_15-7_NOMENCLATURA": "07G052200001700000000",
+        "catastro_15-7_CALLE": "",
+        "catastro_15-7_NRO": "",
+        "catastro_15-7_BARRIO": "",
+        "catastro_15-7_ESQ_MED": "Medial",
+        "catastro_15-7_ESTADO_TERRENO": "Baldio",
+        "catastro_15-7_SUPERFICIE_TERRENO": "312,5",
+        "catastro_15-7_DESIG_OFICIAL": "C:VII S:G M:522 P:17",
+        "manzana": "522"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -69.28667502482797,
+                -51.67313157197096,
+                0.0
+              ],
+              [
+                -69.28703635080696,
+                -51.67312735257949,
+                0.0
+              ],
+              [
+                -69.28703974435264,
+                -51.67323968052798,
+                0.0
+              ],
+              [
+                -69.28667841741208,
+                -51.67324389993196,
+                0.0
+              ],
+              [
+                -69.28667502482797,
+                -51.67313157197096,
+                0.0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 2146,
+        "parcela": "3",
+        "catastro_15-7_NOMENCLATURA": "07G052300000300000000",
+        "catastro_15-7_CALLE": "",
+        "catastro_15-7_NRO": "",
+        "catastro_15-7_BARRIO": "",
+        "catastro_15-7_ESQ_MED": "Medial",
+        "catastro_15-7_ESTADO_TERRENO": "Baldio",
+        "catastro_15-7_SUPERFICIE_TERRENO": "312,5",
+        "catastro_15-7_DESIG_OFICIAL": "C:VII S:G M:523 P:3",
+        "manzana": "523"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -69.28537086162916,
+                -51.6730344245698,
+                0.0
+              ],
+              [
+                -69.28573218674052,
+                -51.67303020919354,
+                0.0
+              ],
+              [
+                -69.28573557698391,
+                -51.673142537187275,
+                0.0
+              ],
+              [
+                -69.28537425104737,
+                -51.67314675257444,
+                0.0
+              ],
+              [
+                -69.28537086162916,
+                -51.6730344245698,
+                0.0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 2149,
+        "parcela": "16",
+        "catastro_15-7_NOMENCLATURA": "07G052300001600000000",
+        "catastro_15-7_CALLE": "SIN NOMBRE N� 23",
+        "catastro_15-7_NRO": "5534",
+        "catastro_15-7_BARRIO": "",
+        "catastro_15-7_ESQ_MED": "Medial",
+        "catastro_15-7_ESTADO_TERRENO": "Baldio",
+        "catastro_15-7_SUPERFICIE_TERRENO": "312,5",
+        "catastro_15-7_DESIG_OFICIAL": "C:VII S:G M:523 P:16",
+        "manzana": "523"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -69.28573896724518,
+                -51.67325486517875,
+                0.0
+              ],
+              [
+                -69.28610029437168,
+                -51.67325064866425,
+                0.0
+              ],
+              [
+                -69.28610368561242,
+                -51.67336297664094,
+                0.0
+              ],
+              [
+                -69.2857423575243,
+                -51.67336719316794,
+                0.0
+              ],
+              [
+                -69.28573896724518,
+                -51.67325486517875,
+                0.0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 2157,
+        "parcela": "12",
+        "catastro_15-7_NOMENCLATURA": "07G052300001200000000",
+        "catastro_15-7_CALLE": "",
+        "catastro_15-7_NRO": "",
+        "catastro_15-7_BARRIO": "",
+        "catastro_15-7_ESQ_MED": "Medial",
+        "catastro_15-7_ESTADO_TERRENO": "Baldio",
+        "catastro_15-7_SUPERFICIE_TERRENO": "312,5",
+        "catastro_15-7_DESIG_OFICIAL": "C:VII S:G M:523 P:12",
+        "manzana": "523"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -69.28575252846893,
+                -51.673704177121806,
+                0.0
+              ],
+              [
+                -69.2861138594419,
+                -51.673699960557286,
+                0.0
+              ],
+              [
+                -69.28611725075412,
+                -51.67381228852483,
+                0.0
+              ],
+              [
+                -69.28575591881953,
+                -51.67381650510188,
+                0.0
+              ],
+              [
+                -69.28575252846893,
+                -51.673704177121806,
+                0.0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 2158,
+        "parcela": "9",
+        "catastro_15-7_NOMENCLATURA": "07G052300000900000000",
+        "catastro_15-7_CALLE": "",
+        "catastro_15-7_NRO": "",
+        "catastro_15-7_BARRIO": "",
+        "catastro_15-7_ESQ_MED": "Medial",
+        "catastro_15-7_ESTADO_TERRENO": "Baldio",
+        "catastro_15-7_SUPERFICIE_TERRENO": "312,5",
+        "catastro_15-7_DESIG_OFICIAL": "C:VII S:G M:523 P:9",
+        "manzana": "523"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -69.2853911984064,
+                -51.673708392563526,
+                0.0
+              ],
+              [
+                -69.28575252846893,
+                -51.673704177121806,
+                0.0
+              ],
+              [
+                -69.28575591881953,
+                -51.67381650510188,
+                0.0
+              ],
+              [
+                -69.28539458793179,
+                -51.6738207205545,
+                0.0
+              ],
+              [
+                -69.2853911984064,
+                -51.673708392563526,
+                0.0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 2172,
+        "parcela": "7",
+        "catastro_15-7_NOMENCLATURA": "07G052500000700000000",
+        "catastro_15-7_CALLE": "",
+        "catastro_15-7_NRO": "",
+        "catastro_15-7_BARRIO": "",
+        "catastro_15-7_ESQ_MED": "Medial",
+        "catastro_15-7_ESTADO_TERRENO": "Baldio",
+        "catastro_15-7_SUPERFICIE_TERRENO": "312,5",
+        "catastro_15-7_DESIG_OFICIAL": "C:VII S:G M:525 P:7",
+        "manzana": "525"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -69.28350550885803,
+                -51.67350563847701,
+                0.0
+              ],
+              [
+                -69.28383812609178,
+                -51.673501763379114,
+                0.0
+              ],
+              [
+                -69.28384151180045,
+                -51.67361409142421,
+                0.0
+              ],
+              [
+                -69.28350889374435,
+                -51.673617966532866,
+                0.0
+              ],
+              [
+                -69.28350550885803,
+                -51.67350563847701,
+                0.0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 2176,
+        "parcela": "9",
+        "catastro_15-7_NOMENCLATURA": "07G052500000900000000",
+        "catastro_15-7_CALLE": "",
+        "catastro_15-7_NRO": "",
+        "catastro_15-7_BARRIO": "",
+        "catastro_15-7_ESQ_MED": "Medial",
+        "catastro_15-7_ESTADO_TERRENO": "Baldio",
+        "catastro_15-7_SUPERFICIE_TERRENO": "312,5",
+        "catastro_15-7_DESIG_OFICIAL": "C:VII S:G M:525 P:9",
+        "manzana": "525"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -69.28351227864854,
+                -51.67373029458643,
+                0.0
+              ],
+              [
+                -69.28384489752693,
+                -51.67372641946702,
+                0.0
+              ],
+              [
+                -69.28384828327128,
+                -51.67383874750756,
+                0.0
+              ],
+              [
+                -69.28351566357055,
+                -51.67384262263771,
+                0.0
+              ],
+              [
+                -69.28351227864854,
+                -51.67373029458643,
+                0.0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 2177,
+        "parcela": "11",
+        "catastro_15-7_NOMENCLATURA": "07G052500001100000000",
+        "catastro_15-7_CALLE": "",
+        "catastro_15-7_NRO": "",
+        "catastro_15-7_BARRIO": "",
+        "catastro_15-7_ESQ_MED": "Esquina",
+        "catastro_15-7_ESTADO_TERRENO": "Baldio",
+        "catastro_15-7_SUPERFICIE_TERRENO": "304,5",
+        "catastro_15-7_DESIG_OFICIAL": "C:VII S:G M:525 P:11",
+        "manzana": "525"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -69.28384828327128,
+                -51.67383874750756,
+                0.0
+              ],
+              [
+                -69.28416605989986,
+                -51.6738350444238,
+                0.0
+              ],
+              [
+                -69.28416836268106,
+                -51.67391142786941,
+                0.0
+              ],
+              [
+                -69.28411163315837,
+                -51.673948046605716,
+                0.0
+              ],
+              [
+                -69.28385166904508,
+                -51.67395107593118,
+                0.0
+              ],
+              [
+                -69.28384828327128,
+                -51.67383874750756,
+                0.0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 2178,
+        "parcela": "10",
+        "catastro_15-7_NOMENCLATURA": "07G052500001000000000",
+        "catastro_15-7_CALLE": "",
+        "catastro_15-7_NRO": "",
+        "catastro_15-7_BARRIO": "",
+        "catastro_15-7_ESQ_MED": "Esquina",
+        "catastro_15-7_ESTADO_TERRENO": "Baldio",
+        "catastro_15-7_SUPERFICIE_TERRENO": "304,5",
+        "catastro_15-7_DESIG_OFICIAL": "C:VII S:G M:525 P:10",
+        "manzana": "525"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -69.28351566357055,
+                -51.67384262263771,
+                0.0
+              ],
+              [
+                -69.28384828327128,
+                -51.67383874750756,
+                0.0
+              ],
+              [
+                -69.28385166904508,
+                -51.67395107593118,
+                0.0
+              ],
+              [
+                -69.28357686176062,
+                -51.67395427759608,
+                0.0
+              ],
+              [
+                -69.28351796533931,
+                -51.67391900609665,
+                0.0
+              ],
+              [
+                -69.28351566357055,
+                -51.67384262263771,
+                0.0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 2308,
+        "parcela": "12",
+        "catastro_15-7_NOMENCLATURA": "07G053700001200000000",
+        "catastro_15-7_CALLE": "",
+        "catastro_15-7_NRO": "",
+        "catastro_15-7_BARRIO": "",
+        "catastro_15-7_ESQ_MED": "Medial",
+        "catastro_15-7_ESTADO_TERRENO": "Baldio",
+        "catastro_15-7_SUPERFICIE_TERRENO": "312,5",
+        "catastro_15-7_DESIG_OFICIAL": "C:VII S:G M:537 P:12",
+        "manzana": "537"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -69.28481534358768,
+                -51.676187193282146,
+                0.0
+              ],
+              [
+                -69.28517669441744,
+                -51.67618297957202,
+                0.0
+              ],
+              [
+                -69.28518008362103,
+                -51.67629530752216,
+                0.0
+              ],
+              [
+                -69.2848187318295,
+                -51.6762995212448,
+                0.0
+              ],
+              [
+                -69.28481534358768,
+                -51.676187193282146,
+                0.0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 2373,
+        "parcela": "8",
+        "catastro_15-7_NOMENCLATURA": "07G054100000800000000",
+        "catastro_15-7_CALLE": "",
+        "catastro_15-7_NRO": "",
+        "catastro_15-7_BARRIO": "",
+        "catastro_15-7_ESQ_MED": "Medial",
+        "catastro_15-7_ESTADO_TERRENO": "Baldio",
+        "catastro_15-7_SUPERFICIE_TERRENO": "312,5",
+        "catastro_15-7_DESIG_OFICIAL": "C:VII S:G M:541 P:8",
+        "manzana": "541"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -69.28054464803961,
+                -51.676012174858776,
+                0.0
+              ],
+              [
+                -69.28090599707808,
+                -51.67600797429699,
+                0.0
+              ],
+              [
+                -69.28090937563388,
+                -51.67612030239029,
+                0.0
+              ],
+              [
+                -69.28054802577007,
+                -51.676124502962914,
+                0.0
+              ],
+              [
+                -69.28054464803961,
+                -51.676012174858776,
+                0.0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 2513,
+        "parcela": "12",
+        "catastro_15-7_NOMENCLATURA": "07G054600001200000000",
+        "catastro_15-7_CALLE": "",
+        "catastro_15-7_NRO": "",
+        "catastro_15-7_BARRIO": "",
+        "catastro_15-7_ESQ_MED": "Medial",
+        "catastro_15-7_ESTADO_TERRENO": "Baldio",
+        "catastro_15-7_SUPERFICIE_TERRENO": "312,5",
+        "catastro_15-7_DESIG_OFICIAL": "C:VII S:G M:546 P:12",
+        "manzana": "546"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -69.2848512610312,
+                -51.67737786955647,
+                0.0
+              ],
+              [
+                -69.28521262133295,
+                -51.677373655722306,
+                0.0
+              ],
+              [
+                -69.28521601072589,
+                -51.67748598364827,
+                0.0
+              ],
+              [
+                -69.2848546494623,
+                -51.67749019749494,
+                0.0
+              ],
+              [
+                -69.2848512610312,
+                -51.67737786955647,
+                0.0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 2517,
+        "parcela": "1",
+        "catastro_15-7_NOMENCLATURA": "07G054700000100000000",
+        "catastro_15-7_CALLE": "",
+        "catastro_15-7_NRO": "",
+        "catastro_15-7_BARRIO": "",
+        "catastro_15-7_ESQ_MED": "Esquina",
+        "catastro_15-7_ESTADO_TERRENO": "Baldio",
+        "catastro_15-7_SUPERFICIE_TERRENO": "273,25",
+        "catastro_15-7_DESIG_OFICIAL": "C:VII S:G M:547 P:1",
+        "manzana": "547"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -69.28392415733933,
+                -51.6766021034383,
+                0.0
+              ],
+              [
+                -69.28419155813674,
+                -51.67659898744036,
+                0.0
+              ],
+              [
+                -69.28425045856443,
+                -51.676634258579845,
+                0.0
+              ],
+              [
+                -69.28425276180926,
+                -51.67671064195523,
+                0.0
+              ],
+              [
+                -69.28392754353276,
+                -51.6767144317764,
+                0.0
+              ],
+              [
+                -69.28392415733933,
+                -51.6766021034383,
+                0.0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 2520,
+        "parcela": "3",
+        "catastro_15-7_NOMENCLATURA": "07G054700000300000000",
+        "catastro_15-7_CALLE": "",
+        "catastro_15-7_NRO": "",
+        "catastro_15-7_BARRIO": "",
+        "catastro_15-7_ESQ_MED": "Medial",
+        "catastro_15-7_ESTADO_TERRENO": "Baldio",
+        "catastro_15-7_SUPERFICIE_TERRENO": "281,25",
+        "catastro_15-7_DESIG_OFICIAL": "C:VII S:G M:547 P:3",
+        "manzana": "547"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -69.28360232341517,
+                -51.67671822071807,
+                0.0
+              ],
+              [
+                -69.28392754353276,
+                -51.6767144317764,
+                0.0
+              ],
+              [
+                -69.28393092973329,
+                -51.6768267597565,
+                0.0
+              ],
+              [
+                -69.28360570893068,
+                -51.67683054870729,
+                0.0
+              ],
+              [
+                -69.28360232341517,
+                -51.67671822071807,
+                0.0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 2524,
+        "parcela": "5",
+        "catastro_15-7_NOMENCLATURA": "07G054700000500000000",
+        "catastro_15-7_CALLE": "",
+        "catastro_15-7_NRO": "",
+        "catastro_15-7_BARRIO": "",
+        "catastro_15-7_ESQ_MED": "Medial",
+        "catastro_15-7_ESTADO_TERRENO": "Baldio",
+        "catastro_15-7_SUPERFICIE_TERRENO": "281,25",
+        "catastro_15-7_DESIG_OFICIAL": "C:VII S:G M:547 P:5",
+        "manzana": "547"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -69.28360909446404,
+                -51.67694287669425,
+                0.0
+              ],
+              [
+                -69.28393431595168,
+                -51.676939087734326,
+                0.0
+              ],
+              [
+                -69.2839377021879,
+                -51.67705141570985,
+                0.0
+              ],
+              [
+                -69.28361248001524,
+                -51.6770552046789,
+                0.0
+              ],
+              [
+                -69.28360909446404,
+                -51.67694287669425,
+                0.0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 2808,
+        "parcela": "11",
+        "catastro_15-7_NOMENCLATURA": "07G052400001100000000",
+        "catastro_15-7_CALLE": "",
+        "catastro_15-7_NRO": "",
+        "catastro_15-7_BARRIO": "",
+        "catastro_15-7_ESQ_MED": "Esquina",
+        "catastro_15-7_ESTADO_TERRENO": "Baldio",
+        "catastro_15-7_SUPERFICIE_TERRENO": "304,5",
+        "catastro_15-7_DESIG_OFICIAL": "C:VII S:G M:524 P:11",
+        "manzana": "524"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -69.28474419156079,
+                -51.67382830557549,
+                0.0
+              ],
+              [
+                -69.28510552369548,
+                -51.67382409211029,
+                0.0
+              ],
+              [
+                -69.28510782809693,
+                -51.673900475149146,
+                0.0
+              ],
+              [
+                -69.28505109934724,
+                -51.67393709433812,
+                0.0
+              ],
+              [
+                -69.28474757942767,
+                -51.67394063358606,
+                0.0
+              ],
+              [
+                -69.28474419156079,
+                -51.67382830557549,
+                0.0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 2879,
+        "parcela": "18",
+        "catastro_15-7_NOMENCLATURA": "07G051200001800000000",
+        "catastro_15-7_CALLE": "",
+        "catastro_15-7_NRO": "",
+        "catastro_15-7_BARRIO": "",
+        "catastro_15-7_ESQ_MED": "Medial",
+        "catastro_15-7_ESTADO_TERRENO": "Baldio",
+        "catastro_15-7_SUPERFICIE_TERRENO": "312,5",
+        "catastro_15-7_DESIG_OFICIAL": "C:VII S:G M:512 P:18",
+        "manzana": "512"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -69.28769720955381,
+                -51.671074541840895,
+                0.0
+              ],
+              [
+                -69.28805851891462,
+                -51.67107031933071,
+                0.0
+              ],
+              [
+                -69.28806191497614,
+                -51.67118264728365,
+                0.0
+              ],
+              [
+                -69.2877006047134,
+                -51.67118686980567,
+                0.0
+              ],
+              [
+                -69.28769720955381,
+                -51.671074541840895,
+                0.0
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
