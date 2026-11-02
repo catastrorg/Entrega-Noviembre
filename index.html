@@ -11,7 +11,7 @@ const FILES={manzanas:'mz_nov.geojson',terrenos:'terrenos_nov.geojson',calles:'c
 const map=L.map('map',{maxZoom:22,zoomControl:true}).setView([-51.62,-69.19],13);
 for(const [name,z] of [['sat',200],['osm',250],['blocks',350],['plots',400],['labels',500]]){map.createPane(name);map.getPane(name).style.zIndex=z}
 map.getPane('labels').style.pointerEvents='none';
-L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}',{pane:'sat',maxNativeZoom:19,maxZoom:22,attribution:'&copy; Esri'}).addTo(map);
+L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}',{pane:'sat',maxNativeZoom:17,maxZoom:22,attribution:'&copy; Esri'}).addTo(map);
 const capaOSM=L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',{pane:'osm',maxNativeZoom:19,maxZoom:22,opacity:.55,className:'osm-multiply',attribution:'&copy; OpenStreetMap'}).addTo(map);
 function controlarOSM(){capaOSM.setOpacity(map.getZoom()>17?0:.55)}
 map.on('zoomend',controlarOSM);controlarOSM();
